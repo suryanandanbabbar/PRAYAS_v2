@@ -7,7 +7,11 @@ Floods in India cause massive loss of life and property annually. PRAYAS aims to
 Core Objective: To provide an "Interactive Map Interface" that acts as a central hub for simulation, routing, and risk visualization, supported by a transparent financial dashboard for relief funds.
 
 
-https://github.com/user-attachments/assets/79e69aab-c78f-43ef-858c-e2cda8268dbc
+
+
+https://github.com/user-attachments/assets/321dcb34-c226-47b9-ad78-7eba9818c3e1
+
+
 
 
 # System Workflow
